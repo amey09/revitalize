@@ -1,7 +1,7 @@
 import Navbar from "./components/Navbar";
 import "./index.css";
 import Hero from "./components/Hero";
-import DiscountCard from "./components/DiscountCard";
+import Services from "./components/Services";
 import WorkingDaysCard from "./components/WorkingDaysCard";
 import About from "./components/About";
 import Aside from "./components/Aside";
@@ -14,7 +14,7 @@ function App() {
 
       <Hero />
 
-      <DiscountCard />
+      <Services />
 
       <WorkingDaysCard />
 
