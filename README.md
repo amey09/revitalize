@@ -1,1 +1,1 @@
-use this branch to release final version of the app
+use this branch to initialize feature branches
