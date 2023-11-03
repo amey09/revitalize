@@ -23,7 +23,7 @@ const Navbar = () => {
           alignItems={"center"}
           justifySelf={"flex-start"}
         >
-          <Image src={"./group16.svg"} height={"clamp(3.5rem, 10vw, 6rem)"} />
+          <Image src={"./logo.svg"} height={"clamp(3.5rem, 10vw, 6rem)"} />
         </Flex>
         <Flex
           as="nav"
