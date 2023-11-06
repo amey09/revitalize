@@ -32,13 +32,13 @@ const Navbar = () => {
           flex={{ base: 1, sm: "0" }}
           gap={"clamp(0.2rem, 4vw, 4rem)"}
         >
-          <Link
-            href="#hero"
-            fontFamily={"inter"}
-            fontSize={"clamp(1rem, 1.5vw, 2.5rem)"}
-          >
-            Home
-          </Link>
+          {/*<Link*/}
+          {/*  href="#hero"*/}
+          {/*  fontFamily={"inter"}*/}
+          {/*  fontSize={"clamp(1rem, 1.5vw, 2.5rem)"}*/}
+          {/*>*/}
+          {/*  Home*/}
+          {/*</Link>*/}
           <Link
             href="#about"
             fontFamily={"inter"}
